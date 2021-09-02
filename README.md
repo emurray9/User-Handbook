@@ -1,6 +1,6 @@
 # User-Handbook
 
-##Getting started
+## Getting started
 
 Make sure you have the following parts:
 1. The actuator
@@ -9,5 +9,5 @@ Make sure you have the following parts:
 4. CPS
 5. RAM
 
-##Opening the box
+## Opening the box
 
