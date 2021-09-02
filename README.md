@@ -1,6 +1,7 @@
 # User-Handbook
 
 ##Getting started
+
 Make sure you have the following parts:
 1.The actuator
 2.Compressr 
